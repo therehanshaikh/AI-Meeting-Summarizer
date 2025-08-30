@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2917493a.css",
+    "main.js": "/static/js/main.fd8648d7.js",
+    "static/js/453.670e15c7.chunk.js": "/static/js/453.670e15c7.chunk.js",
+    "static/media/pexels-jess-vide-4327602.jpg": "/static/media/pexels-jess-vide-4327602.832f39d26cd119471b6a.jpg",
+    "index.html": "/index.html",
+    "main.2917493a.css.map": "/static/css/main.2917493a.css.map",
+    "main.fd8648d7.js.map": "/static/js/main.fd8648d7.js.map",
+    "453.670e15c7.chunk.js.map": "/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2917493a.css",
+    "static/js/main.fd8648d7.js"
+  ]
+}
