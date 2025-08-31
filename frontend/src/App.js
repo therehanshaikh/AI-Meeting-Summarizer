@@ -24,12 +24,7 @@ function App() {
   };
   return (
     <div className="container">
-      <h1>
-        <span role="img" aria-label="brain" className="emoji">
-          🧠
-        </span>{" "}
-        AI Meeting Extractor
-      </h1>
+      <h1>🧠 AI Meeting Summarizer</h1>
       <p className="subtext">
         Upload your meeting audio and get instant transcripts, summaries, and
         action items.

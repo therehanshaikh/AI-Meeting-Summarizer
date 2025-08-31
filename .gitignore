@@ -1,10 +1,10 @@
 # Ignore backend venv and pycache
-backend/venv/
-backend/__pycache__/
-backend/*.pyc
-backend/.env
-
-# Ignore frontend node modules and build
-frontend/node_modules/
-frontend/build/
-frontend/.env
+node_modules/
+__pycache__/
+.env
+build/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+uploads/
