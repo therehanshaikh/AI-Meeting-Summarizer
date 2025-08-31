@@ -85,14 +85,6 @@ These instructions will help you run the project locally.
     http://localhost:3000
     ```
 
-### Environment Variables
-
-If your project requires environment variables:
-
-- Create `.env` files as needed in the frontend and backend folders.
-- Do **not** commit `.env` files to the repository.
-- Provide sample `.env.example` files with placeholder values, if applicable.
-
 ## Usage
 
 - Access the frontend in the browser at `http://localhost:3000`.
